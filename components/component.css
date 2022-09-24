@@ -1,0 +1,12 @@
+.component-container {
+  display: flex;
+  position: relative;
+}
+.component-text {
+  font-size: 0.75rem;
+  text-align: center;
+  font-weight: 600;
+  margin-bottom: var(--dl-space-space-twounits);
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
